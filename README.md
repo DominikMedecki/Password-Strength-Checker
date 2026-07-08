@@ -1,4 +1,4 @@
-# 🔐 Password Fortress
+# 🔐 Password Strength Checker
 
 **Advanced Password Strength Analyzer & Secure Password Generator**
 
