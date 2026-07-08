@@ -7,7 +7,7 @@ import string
 
 st.set_page_config(page_title="Password Fortress", page_icon="🔐", layout="centered")
 
-st.title("🔐 Password Fortress")
+st.title("🔐 Password Strenght Checker")
 st.markdown("**Advanced Password Strength Analyzer & Secure Generator**")
 
 tab1, tab2 = st.tabs(["🔍 Password Analyzer", "🔑 Password Generator"])
