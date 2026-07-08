@@ -41,13 +41,13 @@ A modern, interactive web application built to help users create and evaluate st
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/password-strength-checker.git
+git clone https://github.com/DominikMedecki/password-strength-checker.git
 cd password-strength-checker
 
-# 2. Create virtual environment
+# 2. Create a virtual environment
 python -m venv venv
 
-# 3. Activate virtual environment
+# 3. Activate the virtual environment
 # Windows:
 venv\Scripts\activate
 # Mac/Linux:
